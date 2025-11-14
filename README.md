@@ -39,7 +39,7 @@ make
 ## Horizontal bilayer v2
 * add a single rule to have luminal cells die if not in contact with basal
 
-* ```
+```
 make load PROJ=horiz_v2
 make
 ```
