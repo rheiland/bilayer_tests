@@ -35,3 +35,9 @@ make
 <img src=.\images\horiz_bilayer_v1_8hr_30m.png width="30%"><img src=.\images\horiz_bilayer_v1_10hr.png width="30%">
 
 <img src=.\images\horiz_bilayer_v1_mech_luminal.png width="30%">
+
+## Horizontal bilayer v2
+* add a single rule to have luminal cells die if not in contact with basal
+
+<img src=.\images\horiz_bilayer_v2_rule_apop.png width="30%">
+<img src=.\images\horiz_bilayer_v2_1d_12h.png width="30%">
