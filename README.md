@@ -27,8 +27,8 @@ these in subsequent versions of the model.
 make load PROJ=horiz_v1
 ```
 
-<img src=.\images\horiz_bilayer_v1_30min.png width="30%">
-<img src=.\images\horiz_bilayer_v1_1hr.png width="30%">
-<img src=.\images\horiz_bilayer_v1_8hr_30m.png width="30%">
-<img src=.\images\horiz_bilayer_v1_10hr.png width="30%">
+<img src=.\images\horiz_bilayer_v1_30min.png width="30%"><img src=.\images\horiz_bilayer_v1_1hr.png width="30%">
+
+<img src=.\images\horiz_bilayer_v1_8hr_30m.png width="30%"><img src=.\images\horiz_bilayer_v1_10hr.png width="30%">
+
 <img src=.\images\horiz_bilayer_v1_mech_luminal.png width="30%">
