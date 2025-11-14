@@ -11,6 +11,7 @@ Create a sequence of simple bilayer models and test cell division and overall me
 
 ```
 make load PROJ=horiz_v0
+make
 ```
 
 <img src=.\images\horiz_bilayer_v0.gif width="50%">
@@ -25,6 +26,7 @@ these in subsequent versions of the model.
 
 ```
 make load PROJ=horiz_v1
+make
 ```
 
 <img src=.\images\horiz_bilayer_v1_30min.png width="30%"><img src=.\images\horiz_bilayer_v1_1hr.png width="30%">
