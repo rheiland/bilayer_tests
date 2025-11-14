@@ -1,0 +1,4 @@
+ctype2,contact with basal,increases,cell attachment rate,0.01,0.5,4,0
+ctype2,contact with luminal,increases,cell attachment rate,0.01,0.5,4,0
+luminal,contact with basal,decreases,apoptosis,0.0,0.5,4,0
+basal,contact with luminal,decreases,apoptosis,0.0,0.5,4,0
