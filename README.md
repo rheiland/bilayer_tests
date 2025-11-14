@@ -4,5 +4,5 @@ Create a sequence of simple bilayer models and test cell division and overall me
 
 ## Horizontal bilayer
 
-<img src=.\images\horiz_bilayer_v0 width="30%">
+<img src=.\images\horiz_bilayer_v0.gif width="30%">
 
