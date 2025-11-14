@@ -44,5 +44,5 @@ make load PROJ=horiz_v2
 make
 ```
 
-<img src=.\images\horiz_bilayer_v2_rule_apop.png width="30%">
+<img src=.\images\horiz_bilayer_v2_rule_apop.png width="50%">
 <img src=.\images\horiz_bilayer_v2_1d_12h.png width="30%">
