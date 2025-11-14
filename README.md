@@ -23,6 +23,7 @@ these in subsequent versions of the model.
 
 ## Horizontal bilayer v1
 * add spring mechanics to the luminal cells
+* in the Plot, have the "links" be "spring attachments" (not "neighbors")
 
 ```
 make load PROJ=horiz_v1
