@@ -46,3 +46,15 @@ make
 
 <img src=.\images\horiz_bilayer_v2_rule_apop.png width="50%">
 <img src=.\images\horiz_bilayer_v2_1d_12h.png width="30%">
+
+## Horizontal bilayer v3
+* decrease luminal cycle rate
+* add spring attachment to endpt cells (why don't links plot?)
+
+```
+make load PROJ=horiz_v3
+make
+```
+
+<img src=.\images\horiz_bilayer_v3_2d_6h.png width="30%">
+
